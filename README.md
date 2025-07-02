@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on a Full Stack development project<br>👯 I’m looking to collaborate on any competition‑grade full‑stack or AI/ML projects<br>🌱 I’m currently learning Machine Learning and advanced backend architectures<br>⚡ Fun fact: I have collaborated on a project set in the year 2100—where Onel Skmu, a software engineer
+### Hi there, I’m Himath 👋
+
+- 🔭 I’m currently working on a **Full Stack development** project
+- 👯 I’m looking to collaborate on any **competition‑grade full‑stack or AI/ML projects**
+- 🌱 I’m currently learning **Machine Learning** and **advanced backend architectures**
+- ⚡ Fun fact: I have collaborated on a project set in the year 2100—where **Onel Skmu**, a software engineer from the future, answers your questions about tomorrow.
 
 
 ## 🌐 Socials:
@@ -12,7 +16,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=HimathX&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimathX&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HimathX&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
